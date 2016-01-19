@@ -1,6 +1,6 @@
 .c9
-.gitattributes
-vendor/
-.env.*.php
-.env.php
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
 .env
